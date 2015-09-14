@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RSA", "RSA\RSA.vcxproj", "{8039C58A-89CF-4C6D-AAF1-4475700520DB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test-rsa", "test-rsa\test-rsa.vcxproj", "{C660691E-0AFA-4B49-A5C0-B38C5CDAC660}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8039C58A-89CF-4C6D-AAF1-4475700520DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8039C58A-89CF-4C6D-AAF1-4475700520DB}.Debug|Win32.Build.0 = Debug|Win32
+		{8039C58A-89CF-4C6D-AAF1-4475700520DB}.Release|Win32.ActiveCfg = Release|Win32
+		{8039C58A-89CF-4C6D-AAF1-4475700520DB}.Release|Win32.Build.0 = Release|Win32
+		{C660691E-0AFA-4B49-A5C0-B38C5CDAC660}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C660691E-0AFA-4B49-A5C0-B38C5CDAC660}.Debug|Win32.Build.0 = Debug|Win32
+		{C660691E-0AFA-4B49-A5C0-B38C5CDAC660}.Release|Win32.ActiveCfg = Release|Win32
+		{C660691E-0AFA-4B49-A5C0-B38C5CDAC660}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

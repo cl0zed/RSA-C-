@@ -1,0 +1,13 @@
+#include "stdafx.h"
+#include<iostream>
+#include "TinyInt.h"
+using namespace std;
+int main()
+{
+	tinyInt a("99999") , b("1");
+	tinyInt c = a+b;
+	cout << c; 
+	system("pause");
+	return 0;
+}
+
